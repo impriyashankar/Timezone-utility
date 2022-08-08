@@ -1,0 +1,23 @@
+{
+  "name": "timezone-util",
+  "version": "1.0.0",
+  "description": "Test command line script in node.js from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/impriyashankar/timezone-util.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/impriyashankar/timezone-util/issues"
+  },
+  "homepage": "https://github.com/impriyashankar/timezone-util#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.34"
+  }
+}
