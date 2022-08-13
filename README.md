@@ -1,4 +1,4 @@
-# Timezone - Timezone conversion utility
+# Timezone - Timezone conversion utility 
 
 A command line utility in Node.js that performs timezone conversion.
 
